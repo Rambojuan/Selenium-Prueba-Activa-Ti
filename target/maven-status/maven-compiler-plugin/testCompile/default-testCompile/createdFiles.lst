@@ -1,0 +1,3 @@
+pageobjects\SignUpPageObject.class
+stepdefinition\SignUpStepDef.class
+CucumberTest.class
